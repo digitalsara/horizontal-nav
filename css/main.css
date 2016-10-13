@@ -23,5 +23,6 @@ nav li {
   border-radius: 5px;
   color: #fff;
   display: inline-block;
+  font-family: sans-serif;
   padding: .6em;
 }
