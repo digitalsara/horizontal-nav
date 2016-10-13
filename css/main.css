@@ -13,7 +13,10 @@ h1 {
   text-align: center;
 }
 
-
+.top-bar {
+  background-color: #79756f;
+  border: 3px solid #595652;
+}
 
 nav li {
   background-color: #713837;
