@@ -7,10 +7,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  text-align: center;
+}
+
 h1 {
   color: #fff;
   font-family: "Bevan", cursive;
-  text-align: center;
 }
 
 .top-bar {
