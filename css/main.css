@@ -27,5 +27,6 @@ nav li {
   color: #fff;
   display: inline-block;
   font-family: sans-serif;
-  padding: .6em;
+  padding: 0.75em;
+  margin: 0 0 0.3em;
 }
