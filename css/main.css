@@ -38,3 +38,7 @@ a {
   color: #fff;
   text-decoration: none;
 }
+
+nav li:hover {
+  background-color: #f33;
+}
