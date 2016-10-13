@@ -39,6 +39,6 @@ a {
   text-decoration: none;
 }
 
-nav li:hover {
+li:hover {
   background-color: #f33;
 }
