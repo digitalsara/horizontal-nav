@@ -7,6 +7,13 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  color: #fff;
+  font-family: "Bevan", cursive;
+  text-align: center;
+}
+
+
 
 nav li {
   background-color: #713837;
